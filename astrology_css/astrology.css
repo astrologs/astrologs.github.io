@@ -80,7 +80,7 @@ header {
 	flex-flow: column nowrap;
 	align-items: center;
 	height: 1200px;
-	background-image: url("../astrology_image/AstroFons1.png")   
+	background-color: #4E427E
 }
 
 .main-virsraksts {
@@ -93,9 +93,9 @@ header {
 
 .main-virsraksts>h1 {
 	font-size: 42px;
-	font-weight: 400;
+	font-weight: 700;
+	color: gold;
 	text-shadow: 2px 2px 2px #09142C;
-	background-color: rgba(0,0,0,0.87);
 	padding: 0px 10px
 }
 
